@@ -2,7 +2,7 @@
 
 1.The Project is to analyze IMDb movie data(dowloaded from imdb website) to gain insights into popular movie trends and patterns, evaluate movie performance, and explore correlations between different factors.
 
-2.The specific objective is to create a report that will help make informed decisions about what kind of movies to invest in for maximum profit.
+2.The specific objective is to evaluate the performance of individual movies, actors, and directors using IMDb movie data, ratings, reviews, and other metrics to see which movies are most popular and well-received by audiences and then create a report that will help make informed decisions about what kind of movies to invest in for maximum profit
 
 
 ### **Approach**:
