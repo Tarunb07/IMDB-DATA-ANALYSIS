@@ -1,25 +1,17 @@
-# IMDB-DATA-ANALYSIS
-Purpose : The reasons to analyze IMDb movie data include:
+Problem statement:
 
-Understanding movie trends and patterns: By analyzing IMDb movie  can gain insights into popular genres, production budgets, box office revenue, and other trends that can help understand what makes a successful movie.
-Evaluating movie performance: IMDb movie data can be used to evaluate the performance of individual movies, actors, and directors. analyze ratings, reviews, and other metrics to see which movies are most popular and well-received by audiences.
-Exploring correlations between different factors: IMDb movie data used to explore the relationships between different factors such as budget, genre, and box office revenue. By visualizing these relationships, can identify patterns and trends that can help make informed decisions about future movies.a report that will help me in taking decisions on what kind of movies should I invest in so that I have the maximum profit’
+The goal of this project is to analyze IMDb movie data to gain insights into popular movie trends and patterns, evaluate movie performance, and explore correlations between different factors.
+The specific objective is to create a report that will help make informed decisions about what kind of movies to invest in for maximum profit.
 
-Overall, an IMDb movie data analysis project can be a valuable tool for anyone interested in the movie industry, from filmmakers and producers to investors and movie fans.
+Approach:
 
-The first thing to do is to break problem in parts and think straight, First, let see how these different movies performed in terms of ROI and then who are the top performers. For that would be needing these basic information:
+SteThe first step is to break down the problem into parts and analyze different factors such as movie attributes, budget, and profit.
+To make the data more readable, the unit of the budget and gross columns is converted from $ to million $.
+The project then analyzes various aspects of the movie industry, such as finding the best director, the most popular genre, the critic and audience favorite actor, and conducting a profit vs budget analysis.
+The IMDb top 250 foreign film is also analyzed.
 
-Movie attributes
-The budget of the movie
-Profit earned by the movie
+Conclusion:
 
-Data Analysis
-Reducing digits for better readability
-The numbers in the budget and gross are too big, compromising its readability. Let's convert the unit of the budget and gross columns from $ to million $ first
-
-And then analyzed all the following things:
-.Find the best director
-3.Find the most popular genre
-4.Find the critic favourite and audience favourite actor.
-5.Profit vs budget analysis.
-6.Find imdb top 250 foreign film
+An IMDb movie data analysis project can provide valuable insights for anyone interested in the movie industry, from filmmakers and producers to investors and movie fans.
+By analyzing movie trends and patterns, evaluating movie performance, and exploring correlations between different factors, it is possible to make informed decisions about future movies and investments.
+The project provides specific insights such as the best director, most popular genre, and audience and critic favorite actors, as well as profit vs budget analysis and IMDb top 250 foreign film analysis.
