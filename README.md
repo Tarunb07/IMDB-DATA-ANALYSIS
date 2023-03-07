@@ -1,6 +1,6 @@
 ### **Problem Statement**:
 
-1.The goal of this project is to analyze IMDb movie data to gain insights into popular movie trends and patterns, evaluate movie performance, and explore correlations between different factors.
+1.The Project is to analyze IMDb movie data(dowloaded from imdb website) to gain insights into popular movie trends and patterns, evaluate movie performance, and explore correlations between different factors.
 
 2.The specific objective is to create a report that will help make informed decisions about what kind of movies to invest in for maximum profit.
 
@@ -12,6 +12,9 @@
 2.Data Cleaning :To make the data more readable,firstly removed all the unnecessary attributes provided in the data,and then converting the unit of the budget and gross columns from $ to million $.
 
 3.The project then analyzes various aspects of the movie industry, such as finding the best director, the most popular genre, the critic and audience favorite actor,IMDB top 250 movies and conducting a profit vs budget analysis
+
+### **Tools and programming languages used**:  
+Python, VS Code.
 
 ### **Conclusion**:
 
