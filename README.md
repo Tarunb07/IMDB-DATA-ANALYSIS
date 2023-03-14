@@ -20,4 +20,5 @@ Python, VS Code.
 
 An IMDb movie data analysis project provided valuable insights for anyone interested in the movie industry, from filmmakers and producers to investors and movie fans.
 By analyzing movie trends and patterns, evaluating movie performance, and exploring correlations between different factors, it is possible to make informed decisions about future movies and investments.
+
 For instance, the analysis reveals that Charles Chaplin and Tony Kaye are among the best directors. It also indicates that the sci-fi and family genres are the most popular. Furthermore, the research highlights Leonardo DiCaprio as one of the audience and critic favorite actors. Additionally, the project includes a profit versus budget analysis and an IMDb top 250 foreign film analysis. These findings provide a basis for informed decision-making in the movie industry.
